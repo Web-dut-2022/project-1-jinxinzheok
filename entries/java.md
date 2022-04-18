@@ -1,0 +1,1 @@
+Java is an object-oriented programming language, which not only absorbs various advantages of C + + language, but also discards the concepts of multi inheritance and pointer which are difficult to understand in C + +. Therefore, Java language has two characteristics: powerful function and easy to use.

@@ -1,6 +1,8 @@
 body {
+    position:relative;
     margin: 0;
-    background-color: white;
+    left: 10px;
+    background-color: lightpink;
 }
 
 code {
@@ -22,13 +24,13 @@ textarea {
 }
 
 .search {
-    width: 100%;
+    width: 80%;
     font-size: 15px;
     line-height: 15px;
 }
 
 .sidebar {
-    background-color: #f0f0f0;
+    background-color: LavenderBlush;
     height: 100vh;
     padding: 20px;
 }
